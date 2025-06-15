@@ -1,0 +1,87 @@
+{
+  "activeUsers": [
+    {
+      "timeBucket": "2025-01-01T00:00:00Z",
+      "value": 265
+    },
+    {
+      "timeBucket": "2025-01-02T00:00:00Z",
+      "value": 324
+    },
+    {
+      "timeBucket": "2025-01-03T00:00:00Z",
+      "value": 496
+    },
+    {
+      "timeBucket": "2025-01-04T00:00:00Z",
+      "value": 410
+    },
+    {
+      "timeBucket": "2025-01-05T00:00:00Z",
+      "value": 230
+    },
+    {
+      "timeBucket": "2025-01-06T00:00:00Z",
+      "value": 546
+    },
+    {
+      "timeBucket": "2025-01-07T00:00:00Z",
+      "value": 389
+    }
+  ],
+  "sectionData": [
+    {
+      "locationName": "Entrance Section",
+      "metrics": {
+        "waitTimeSeconds": 14,
+        "workForceUtilization": {
+          "total": 40,
+          "persons": [
+            {
+              "firstName": "Alice",
+              "lastName": "Alistair"
+            },
+            {
+              "firstName": "Bob",
+              "lastName": "Bastion"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locationName": "Checkout Section",
+      "metrics": {
+        "waitTimeSeconds": 178,
+        "workForceUtilization": {
+          "total": 20,
+          "persons": [
+            {
+              "firstName": "Chair",
+              "lastName": "Colster"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "locationName": "Support Desk",
+      "metrics": {
+        "waitTimeSeconds": 273,
+        "workForceUtilization": {
+          "total": 40,
+          "persons": [
+            {
+              "firstName": "Dave",
+              "lastName": "Deportes"
+            },
+            {
+              "firstName": "Eny",
+              "lastName": "Ellior"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
