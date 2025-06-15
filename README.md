@@ -28,3 +28,20 @@ A sleek, responsive analytics dashboard built with **React**, **TypeScript**, an
 
 ## 📂 Folder Structure
 
+src/
+├── components/
+│ └── layout/ # Sidebar & Topbar
+├── data/
+│ └── sample_data.json
+├── pages/
+│ ├── Dashboard.tsx
+│ ├── Login.tsx
+│ ├── Register.tsx
+│ ├── Reports.tsx
+│ └── Settings.tsx
+├── routes/
+│ └── AppRoutes.tsx
+├── types/
+│ └── global.d.ts
+├── App.tsx
+└── main.tsx / index.tsx
